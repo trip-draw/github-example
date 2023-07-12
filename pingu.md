@@ -1,2 +1,5 @@
 # 핑구
+
 안드로이드 핑구입니다.
+
+njbnjnjkjjknkj
