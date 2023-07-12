@@ -2,6 +2,7 @@
 
 여행을 그리다. 트립드로우
 
-(핑구)[pingu.md]
-(멧돼지)[2chang5.md]
-(수달)[otter66.md]
+- [수달](otter66.md)
+- [핑구](pingu.md)
+- [멧돼지](2chang.md)
+
