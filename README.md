@@ -4,3 +4,4 @@
 
 - [허브](./herb.md)
 - [리오](Reo.md)
+- [후추](huchu.md)
