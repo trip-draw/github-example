@@ -1,2 +1,3 @@
-# github-example
-github-example
+# 트립드로우 팀을 소개합니다.
+
+여행을 그리다. 트립드로우
